@@ -76,8 +76,8 @@ plt.show()
 #%% Place Order, connect to Binance
 from binance.client import Client
 # Config Keys to connect to binance
-api_key = 'qDGLqaUp965CxNIW0sF67DMGV6RYJszMSWpy2YSax6o2INcL2AtoGM1KW5Tosf3I' #EDIT
-api_secret = 'iP3PJirumhYOSGFo4iDiciJIaeJleSZ4SxMiBJqVi5G32xfQlmxKIULhNYESmdVo'
+api_key = '' #EDIT
+api_secret = ''
 client = Client(api_key, api_secret)
 
 # ORDER @ MARKET// BUY and SELL
